@@ -1,6 +1,6 @@
 {
   "name": "@iobroker-bot-orga/iobroker-lib",
-  "version": "0.0.1-alpha.0",
+  "version": "0.0.1-alpha.1",
   "description": "ioBroker bot support library for ioBroker access",
   "author": "mcm1957 <mcm57@gmx.at>",
   "contributors": [
