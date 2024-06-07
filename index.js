@@ -1,3 +1,8 @@
+/* jshint -W097 */
+/* jshint strict: false */
+/* jslint node: true */
+'use strict';
+
 const iobrokerTools = require('./lib/iobrokerTools.js');
 const iobrokerRepositories = require('./lib/iobrokerRepositories.js');
 
