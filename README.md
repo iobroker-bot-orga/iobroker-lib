@@ -7,7 +7,7 @@ Library supporting access to ioBroker data
     Placeholder for the next version (at the beginning of the line):
     ### **WORK IN PROGRESS**
 -->
-### 0.0.1-alpha.0 (2024-06-07)
+### **WORK IN PROGRESS**
 - (mcm1957) initial release
 
 ## License
