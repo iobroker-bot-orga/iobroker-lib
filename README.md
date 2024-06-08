@@ -7,6 +7,9 @@ Library supporting access to ioBroker data
     Placeholder for the next version (at the beginning of the line):
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (mcm1957) add getLatest/StableAdapters
+
 ### 1.0.1 (2024-06-08)
 - (mcm1957) add version and date infos to getAdapters*
 - (mcm1957) add docu and rename some methods
