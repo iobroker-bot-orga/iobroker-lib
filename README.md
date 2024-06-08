@@ -8,6 +8,7 @@ Library supporting access to ioBroker data
     ### **WORK IN PROGRESS**
 -->
 ### **WORK IN PROGRESS**
+- (mcm1957) add version and date infos to getAdapters*
 - (mcm1957) add docu and rename some methods
 
 ### 0.0.1-alpha.1 (2024-06-07)
